@@ -1,4 +1,7 @@
 package com.julianamanzieri.currencyconverter.exception;
 
-public class ConversionException {
+public class ConversionException extends Exception {
+    public ConversionException(String message) {
+        super(message);
+    }
 }

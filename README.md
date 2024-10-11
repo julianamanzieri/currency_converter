@@ -23,7 +23,6 @@ For example:
 ## Requirements
 
 - Java JDK 11 or higher
-- Maven (if using Maven for dependency management)
 - An API key from ExchangeRate-API to access exchange rates.
 
 ## Features
@@ -39,6 +38,7 @@ For example:
     ```
     git clone https://github.com/julianamanzieri/currency_converter.git
     ```
+    
 2. **Configure the API Key**:
 
 - Sign up at ExchangeRate-API to get a free API key.
@@ -53,8 +53,8 @@ For example:
 
 ## Author
 
-Developed by Juliana Manzieri. Connect with me on LinkedIn or check out my other projects on GitHub.
+Developed by Juliana Manzieri. Connect with me on [LinkedIn](https://www.linkedin.com/in/julianamanzieri/) or check out my other projects on [GitHub](https://github.com/julianamanzieri).
 
 ## License
 
-This project is licensed under the MIT License. See the LICENSE file for more details.
+This project is licensed under the MIT License. See the `LICENSE` file for more details.
